@@ -50,7 +50,7 @@ html {
   
   @media (max-width: 700px) {
     .container-fluid {
-      padding: 19% 5%;
+      padding: 17% 5%;
     }
     .gallery-section img {
       max-height: 320px;
@@ -62,7 +62,7 @@ html {
       font-size: 14px;
     }
     .container-fluid {
-      padding: 26% 5%;
+      padding: 21% 5%;
     }
     .gallery-section img {
       max-height: 255px;
@@ -71,7 +71,7 @@ html {
   
   @media (max-width: 450px) {
     .container-fluid {
-      padding: 32% 5%;
+      padding: 25% 5%;
     }
   }
   
@@ -80,7 +80,7 @@ html {
       font-size: 13px;
     }
     .container-fluid {
-      padding: 40% 5%;
+      padding: 30% 5%;
     }
     .gallery-section img {
       max-height: 150px;
