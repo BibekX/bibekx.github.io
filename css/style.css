@@ -315,6 +315,10 @@ label {
     color: #fff;
 }
 
+.social:hover {
+    transform: scale(1.10, 1.10);
+}
+
 .footer-section p {
     margin: 0;
     font-size: 1rem
