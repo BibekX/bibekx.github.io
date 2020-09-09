@@ -29,58 +29,58 @@ html {
   /* @MEDIA */
   @media (max-width: 1100px) {
     .container-fluid {
-      padding: 8% 5%;
+      padding: 9% 5%;
     }
     .gallery-section img {
-      max-height: 500px;
+      max-height: 490px;
     }
   }
   
   @media (max-width: 850px) {
     body {
-      font-size: 14px;
+      font-size: 15px;
     }
     .container-fluid {
-      padding: 12% 5%;
+      padding: 13% 5%;
     }
     .gallery-section img {
-      max-height: 425px;
+      max-height: 415px;
     }
   }
   
   @media (max-width: 700px) {
     .container-fluid {
-      padding: 17% 5%;
+      padding: 19% 5%;
     }
     .gallery-section img {
-      max-height: 330px;
+      max-height: 320px;
     }
   }
   
   @media (max-width: 550px) {
     body {
-      font-size: 12px;
+      font-size: 14px;
     }
     .container-fluid {
-      padding: 23% 5%;
+      padding: 26% 5%;
     }
     .gallery-section img {
-      max-height: 270px;
+      max-height: 255px;
     }
   }
   
   @media (max-width: 450px) {
     .container-fluid {
-      padding: 29% 5%;
+      padding: 32% 5%;
     }
   }
   
   @media (max-width: 300px) {
     body {
-      font-size: 10px;
+      font-size: 13px;
     }
     .container-fluid {
-      padding: 37% 5%;
+      padding: 40% 5%;
     }
     .gallery-section img {
       max-height: 150px;
