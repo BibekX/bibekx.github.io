@@ -44,7 +44,7 @@ html {
       padding: 13% 5%;
     }
     .gallery-section img {
-      max-height: 415px;
+      max-height: 405px;
     }
   }
   
@@ -53,7 +53,7 @@ html {
       padding: 17% 5%;
     }
     .gallery-section img {
-      max-height: 320px;
+      max-height: 310px;
     }
   }
   
@@ -83,7 +83,7 @@ html {
       padding: 30% 5%;
     }
     .gallery-section img {
-      max-height: 150px;
+      max-height: 145px;
     }
   }
   
@@ -132,6 +132,7 @@ html {
     content: " ";
     width: 100px;
     margin: 30px auto;
+    margin-bottom: 6rem;
   }
   
   .footer-section h3::after {
