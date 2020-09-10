@@ -73,6 +73,9 @@ html {
     .container-fluid {
       padding: 25% 5%;
     }
+    .gallery-section img {
+      max-height: 205px;
+    }
   }
   
   @media (max-width: 300px) {
@@ -92,6 +95,8 @@ html {
       max-height: 520px;
     }
   }
+
+  
   
   /* COLORED SECTION */
   .colored-section {
@@ -299,6 +304,7 @@ html {
     color: white;
     text-shadow: 1px 1px 2px black;
   }
+
   
   /* CONTACT SECTION */
   .contact-section {
