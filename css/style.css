@@ -174,13 +174,12 @@ h3::after {
 
 .nav-item {
   padding: 3% 1em 0;
-  font-weight: 300;
 }
 
 .nav-link {
   font-size: 0.9em;
   letter-spacing: 2px;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .nav-item a:hover,
@@ -204,11 +203,12 @@ h3::after {
   background-color: #028090 !important;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
+  border-bottom: solid 1px #00606d;
 }
 
 @media (max-width: 991px) {
   .navbar {
-    background-color: #393e46 !important;
+    background-color: #028090 !important;
   }
 }
 
@@ -220,7 +220,6 @@ h3::after {
   background-position: center;
   position: relative;
   overflow: hidden;
-  background-attachment: fixed;
 }
 
 .btn-primary:hover {
@@ -293,10 +292,9 @@ h3::after {
 
 /* GALLERY SECTION */
 .gallery-section {
-  background-image: url(../img/background/nepal2.jpg);
+  background-image: url(../img/background/1.jpg);
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
   padding-bottom: 3%;
 }
 
