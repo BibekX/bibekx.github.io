@@ -297,6 +297,7 @@ h3::after {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  padding-bottom: 3%;
 }
 
 .carousel-control-next-icon {
