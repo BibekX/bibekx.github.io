@@ -13,7 +13,7 @@ html {
 body {
   font-family: 'Lato', 'Arial', sans-serif;
   font-weight: 300;
-  color: #555;
+  color: #1d1d1d;
   text-rendering: optimizeLegibility;
   scroll-behavior: smooth;
   text-align: center;
@@ -167,6 +167,7 @@ h3::after {
   margin: 30px auto;
 }
 
+
 /* NAVIGATION BAR */
 .navbar {
   color: #fff;
@@ -282,6 +283,10 @@ h3::after {
   text-align: justify;
 }
 
+.card-body p{
+  text-align: left;
+}
+
 .card-column {
   margin-bottom: 2rem;
 }
@@ -326,6 +331,10 @@ h3::after {
 .contact-section {
   background-color: #a8dadc;
   padding: 0 10%;
+}
+
+.card-header {
+  font-size: 1.3rem;
 }
 
 @media (max-width: 1120px) {
